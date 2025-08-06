@@ -1,0 +1,30 @@
+[33mcommit 05d19499f065c032f32c76ddc11b5747e2247160[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Merge: b1c915f 7da8d93
+Author: Pedro Godoi <pedrogodoiriva@gmail.com>
+Date:   Wed Aug 6 12:55:21 2025 -0300
+
+    Merge branch 'master' of https://github.com/pedrogodoir/excalidraw-desktop
+
+[33mcommit b1c915f636ab0095fe85c9c0d6ca2b3ab159fe18[m
+Author: Pedro Godoi <pedrogodoiriva@gmail.com>
+Date:   Wed Aug 6 12:49:36 2025 -0300
+
+    removing cmd
+
+[33mcommit 7da8d93e4a11095cf9d0a0b777f654459b982644[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Pedro Godoi <pedrogodoiriva@gmail.com>
+Date:   Wed Aug 6 11:51:52 2025 -0300
+
+    some optimizations
+
+[33mcommit 9365157bba2e44040bf5c271488cf14f3ba89e23[m
+Author: Pedro Godoi <pedrogodoiriva@gmail.com>
+Date:   Wed Aug 6 11:31:22 2025 -0300
+
+    excalidraw working on desktop
+
+[33mcommit 64c7203680875cf0f2877a1df7f1daac1eb1dbb1[m
+Author: Pedro Godoi <pedrogodoiriva@gmail.com>
+Date:   Mon Jul 28 09:05:30 2025 -0300
+
+    Integration of excalidraw API

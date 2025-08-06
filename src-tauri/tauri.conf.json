@@ -1,6 +1,6 @@
 {
   "$schema": "https://schema.tauri.app/config/2",
-  "productName": "excalidraw-desktop",
+  "productName": "Excalidraw Desktop",
   "version": "0.1.0",
   "identifier": "com.excalidraw-desktop.app",
   "build": {
@@ -12,9 +12,11 @@
   "app": {
     "windows": [
       {
-        "title": "excalidraw-desktop",
+        "title": "Excalidraw Desktop",
         "width": 800,
-        "height": 600
+        "height": 600,
+        "resizable": true,
+        "maximized": true
       }
     ],
     "security": {
